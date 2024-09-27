@@ -1,0 +1,11 @@
+.width{
+    width: 976px;
+}
+.pading{
+    padding: 15px;
+}
+@media print {
+    .btn_print {
+        display: none;
+    }
+}
